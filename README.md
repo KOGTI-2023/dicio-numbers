@@ -1,3 +1,5 @@
+This is a personal Fork, i will translate it to german language
+
 # Number parser and formatter for Dicio assistant
 This *multilingual* library implements methods to **extract** numbers, dates or durations from text and **format** numbers, dates or dutations into human-readable words. It is inspired by [Mycroft's lingua-franca](https://github.com/MycroftAI/lingua-franca), from which it borrows some resource files. Currently only Italian (it-it) and English (en-us) are supported, and methods to extract dates or durations are still unavailable (though formatting is).
 
